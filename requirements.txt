@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+yfinance
+ta
+pandas
+numpy
+schedule
